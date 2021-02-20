@@ -1,0 +1,3 @@
+/home/djx/CLionProjects/cmake-learn/CMakeFiles/edit_cache.dir
+/home/djx/CLionProjects/cmake-learn/CMakeFiles/rebuild_cache.dir
+/home/djx/CLionProjects/cmake-learn/CMakeFiles/cmake_learn.dir

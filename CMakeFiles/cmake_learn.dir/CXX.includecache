@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/djx/CLionProjects/cmake-learn/exam.h
+set
+-
+vector
+-
+string
+-
+algorithm
+-
+
+/home/djx/CLionProjects/cmake-learn/main.cpp
+iostream
+-
+exam.h
+/home/djx/CLionProjects/cmake-learn/exam.h
+
